@@ -1,4 +1,4 @@
-# Star Wars JSON Viewer (Swift)
+# ✨Star Wars JSON Viewer (Swift)✨
 
 This iOS app is a simple educational project built with Swift and UIKit. It uses the [Star Wars API (SWAPI)](https://swapi.dev) to fetch and display character information based on a user input ID.
 
